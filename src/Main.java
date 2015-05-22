@@ -6,4 +6,9 @@ public class Main {
 		System.out.println("Egit");
 	}
 
+	public void Test()
+	{
+
+	}
+
 }
