@@ -12,4 +12,8 @@ public class Main {
 
 	}
 
+	public void Test2(){
+		int test = 0;
+	}
+
 }
