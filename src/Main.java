@@ -8,6 +8,7 @@ public class Main {
 
 	public void Test()
 	{
+		System.out.println("taku");
 
 	}
 
